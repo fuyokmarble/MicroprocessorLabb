@@ -1,2 +1,1 @@
-# MicroprocessorLab
- For submission microprocessor lab
+Picture
